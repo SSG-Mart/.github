@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://github.com/SSG-Mart/.github/blob/main/ssg_mart.jpeg" height="80" width="80" /> </p>
 <h1 align="center">Welcome to SSG Mart 👋</h1>
 
 <h2>Company Overview</h2>
